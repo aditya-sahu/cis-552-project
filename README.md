@@ -45,6 +45,8 @@ In the context of an SQL database like MySQL, a schema is typically employed to 
    Need to compile and run the output using following command : 
    For compilation:
    > gcc -std=c99 -o OT ot.c 
+
+   
    For Run: 
    > ./OT
    Refere to the sql file template for example in buisness purpose.
