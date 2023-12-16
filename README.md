@@ -46,10 +46,12 @@ In the context of an SQL database like MySQL, a schema is typically employed to 
    For compilation:
    > gcc -std=c99 -o OT ot.c 
 
-   
+
    For Run: 
    > ./OT
-   Refere to the sql file template for example in buisness purpose.
+
+
+   Refer to the sql file template for example in buisness purpose.
 
 
 ## Contribution Guidelines
