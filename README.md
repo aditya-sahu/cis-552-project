@@ -1,7 +1,3 @@
-Sure, here's a basic `README.md` template for the provided code:
-
----
-
 # Oblivious Transfer Implementation
 
 ## Overview
@@ -29,8 +25,8 @@ In the context of an SQL database like MySQL, a schema is typically employed to 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/oblivious-transfer.git
-   cd oblivious-transfer
+   git clone https://github.com/your-username/cis-552-project.git
+   cd cis-552-project
    ```
 
 2. **Installation and Setup:**
@@ -47,8 +43,10 @@ In the context of an SQL database like MySQL, a schema is typically employed to 
 
    C Code already created.
    Need to compile and run the output using following command : 
-   For compilation: gcc -std=c99 -o OT ot.c 
-   For Run: ./OT
+   For compilation:
+   > gcc -std=c99 -o OT ot.c 
+   For Run: 
+   > ./OT
    Refere to the sql file template for example in buisness purpose.
 
 
